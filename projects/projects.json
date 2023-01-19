@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Portfolio",
+    "desc": "A Fully responsive portfolio website buiilt using HTML5, CSS3, JavaScript.",
+    "image": "portfolio",
+    "category": "Web Development",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Object Detection",
+    "desc": "Real Time Object Detection using Python, OpenCV and ML with pre-trained models.",
+    "image": "opencv",
+    "category": "Machine Learning",
+    "links": {
+      "view": "https://user-images.githubusercontent.com/86085398/132133692-af1c096a-3892-40d7-bb56-090e2f20c7b8.png",
+      "code": "https://github.com/HemahariharanSamson/Real-Time-Object-Detection"
+    }
+  },
+  {
+    "name": "To do List",
+    "desc": "A basic colorful To do list app created using HTML5, CSS3 & JavaScript.",
+    "image": "todolist",
+    "category": "Web Devlopment",
+    "links": {
+      "view": "https://to-do-list-hhh.vercel.app/",
+      "code": "https://github.com/HemahariharanSamson/LGM-WEB-INTERN/tree/main/TO%20DO%20LIST"
+    }
+  },
+  {
+    "name": "Calculator",
+    "desc": "Minimally designed, responsive, Functional calculator app created using HTML5, CSS3 & JavaScript.",
+    "image": "calculator",
+    "category": "Web Devlopment",
+    "links": {
+      "view": "https://calculator-hhh.vercel.app/",
+      "code": "https://github.com/HemahariharanSamson/LGM-WEB-INTERN/tree/main/CALCULATOR"
+    }
+  },
+  {
+    "name": "Coming Soon",
+    "desc": "Working on new projects.",
+    "image": "soon",
+    "category": "",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
