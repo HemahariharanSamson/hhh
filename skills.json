@@ -55,23 +55,23 @@
     },
     {
         "name": "YouTube",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/youtube.png"
+        "icon": "https://img.icons8.com/color/48/000000/youtube.png"
     },
     {
         "name": "Linux",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/linux.png"
+        "icon": "https://img.icons8.com/color/48/000000/linux.png"
     },
     {
         "name": "Figma",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/figma.png"
+        "icon": "https://img.icons8.com/color/48/000000/figma.png"
     },
     {
         "name": "Canva",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/canva.png"
+        "icon": "https://img.icons8.com/color/48/000000/canva.png"
     },
     {
         "name": "OpenCV",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/opencv.png"
+        "icon": "https://img.icons8.com/color/48/000000/opencv.png"
     }
     
 ]
