@@ -48,9 +48,5 @@
     {
         "name": "VisualStudio",
         "icon": "./assets/images/icons8-visual-studio-48.png"
-    };
-    {
-        "name": "Wordpress",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/wordpress.png"
     }
 ]
