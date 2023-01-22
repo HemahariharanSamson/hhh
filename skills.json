@@ -52,5 +52,26 @@
     {
         "name": "Wordpress",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/wordpress.png"
+    },
+    {
+        "name": "YouTube",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/youtube.png"
+    },
+    {
+        "name": "Linux",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/linux.png"
+    },
+    {
+        "name": "Figma",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/figma.png"
+    },
+    {
+        "name": "Canva",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/canva.png"
+    },
+    {
+        "name": "OpenCV",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/opencv.png"
     }
+    
 ]
