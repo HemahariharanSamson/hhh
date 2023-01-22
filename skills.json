@@ -50,32 +50,6 @@
         "icon": "./assets/images/icons8-visual-studio-48.png"
     };
     {
-        "name": "GitHub",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    },
-    {
         "name": "Wordpress",
-        "icon": "https://www.flaticon.com/free-icon/wordpress_174881?term=wordpress&page=1&position=2&origin=search&related_id=174881"
-    },
-    {
-        "name": "GitHub",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    },
-    {
-        "name": "GitHub",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    },
-    {
-        "name": "GitHub",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    },
-    {
-        "name": "GitHub",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    },
-    {
-        "name": "GitHub",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/wordpress.png"
     }
-
-]
