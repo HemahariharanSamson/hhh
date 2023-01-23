@@ -318,6 +318,21 @@
       <div class="box">
           <h3>Thank you for visiting &#128519;.</h3>
           <p>Connect with me over socials. <br/> <br/> Motto: "Live. Work. Create. Grow"</p>
+          <p>This page was viewed</p>
+            <p>Views</p>
+            <p id="count">0</p>
+            <script>
+              const countEl = document.getElementById("count");
+              countvisits();
+
+              function countvisits() {
+                fetch('https://api.countapi.xyz/update/hhh/number/?amount=1')
+                  .then((res) => res.json())
+                  .then((res) => {
+                    countEl.innerHTML = res.value;
+                  });
+              }
+            </script>
       </div>
 
       <div class="box">
