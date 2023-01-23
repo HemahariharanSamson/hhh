@@ -318,19 +318,20 @@
       <div class="box">
           <h3>Thank you for visiting &#128519;.</h3>
           <p>Connect with me over socials. <br/> <br/> Motto: "Live. Work. Create. Grow"</p>
-            <p><i class="fa fa-eye"></i>0</p>
-            <script>
-              const countEl = document.getElementById("count");
-              countvisits();
+          <!--created by me to view page visits-->
+          <p><i class="fa fa-eye"></i><span id="count">0</span></p>
+          <script>
+            const countEl = document.getElementById("count");
+            countvisits();
 
-              function countvisits() {
-                fetch('https://api.countapi.xyz/update/hhh/number/?amount=1')
-                  .then((res) => res.json())
-                  .then((res) => {
-                    countEl.innerHTML = res.value;
-                  });
-              }
-            </script>
+            function countvisits() {
+              fetch('https://api.countapi.xyz/update/hhh/number/?amount=1')
+                .then((res) => res.json())
+                .then((res) => {
+                  countEl.innerHTML = res.value;
+                });
+            }
+          </script>
       </div>
 
       <div class="box">
